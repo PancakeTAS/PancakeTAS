@@ -24,6 +24,7 @@ GitHub doesn't have any nice way to organize repositories, so this must do (my c
   - [qotd](https://github.com/PancakeTAS/qotd): Quick and dirty bot I wrote for a friend who needed a "question of the day" bot
 - Compositor-related projects:
   - [bdrm](https://github.com/PancakeTAS/bdrm): The kernel's DRM interface is absolutely horrendous, so here's b(etter)drm fixing it
+  - [udevpp](https://github.com/PancakeTAS/udevpp): Udev is a glorified `ls` and `watch` c library, now available in c++!
   - ... work in progress?
 - PiShock trilogy(+1): These were fun to develop, but as you can imagine I'm not maintaining these.
   - [PishockCeleste](https://github.com/PancakeTAS/PishockCeleste)
