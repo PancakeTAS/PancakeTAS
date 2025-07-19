@@ -16,6 +16,8 @@ I'm not going to list all the basic languages like bash or languages I've writte
 
 GitHub doesn't have any nice way to organize repositories, so this must do (my comments on each repo are mostly sarcastic):
 
+- What you're probably here for:
+  - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk): Brings Lossless Scaling Frame Generation to Linux via Vulkan layer!
 - OBS Plugins:
   - [obs-nvfbc-v30](https://github.com/PancakeTAS/obs-nvfbc-v30): Adds hacky NvFBC screencopy support to modern OBS versions (on life support)
   - [obs-wlroots-screencopy](https://github.com/PancakeTAS/obs-wlroots-screencopy): Objectively better wlroots screencopy that doesn't rely on a desktop portal or pipewire 
